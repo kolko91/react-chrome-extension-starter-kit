@@ -9,4 +9,5 @@ dev/
 *.zip
 *.crx
 *.pem
+*.snap
 update.xml
